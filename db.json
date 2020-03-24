@@ -1,22 +1,88 @@
-{
-    "page": {
-        "pageInfo": {
-            "pageTitle": "In Memoriam: Mary L. Good, a Legacy of Scientific Pursuit and Accomplishment",
-            "pageType": "news page", 
-            "pageURL": "::datalayer-aaasdotorg.pantheonsite.io:news:memoriam-mary-l-good-legacy-scientific-pursuit-and-accomplishment",
-            "pubDate": "2019-11-22",
-            "pagePath": "memoriam-mary-l-good-legacy-scientific-pursuit-and-accomplishment", 
-            "author": "Anne Q. Hoy"
-        },
-        "attributes": {
-            "entityID": "75938",
-            "aaasProgram": "OPP",
-            "subject": {
-                "scientificDiscipline": {
-                    "0": "Scientific community:Science policy",
-                    "1": "Physical sciences:Chemistry"
-                }
+[
+    {
+        "refs": [
+            "page",
+            "pageInfo",
+            "pageTitle"
+        ],
+        "name": "page.pageInfo.pageTitle",
+        "values": "In Memoriam: Mary L. Good, a Legacy of Scientific Pursuit and Accomplishment"
+    },
+    {
+        "refs": [
+            "page",
+            "pageInfo",
+            "pageType"
+        ],
+        "name": "page.pageInfo.pageType",
+        "values": "news page"
+    },
+    {
+        "refs": [
+            "page",
+            "pageInfo",
+            "pageURL"
+        ],
+        "name": "page.pageInfo.pageURL",
+        "values": "https://datalayer-aaasdotorg.pantheonsite.io/news/memoriam-mary-l-good-legacy-scientific-pursuit-and-accomplishment"
+    },
+    {
+        "refs": [
+            "page",
+            "pageInfo",
+            "pubDate"
+        ],
+        "name": "page.pageInfo.pubDate",
+        "values": "2019-11-22"
+    },
+    {
+        "refs": [
+            "page",
+            "pageInfo",
+            "pagePath"
+        ],
+        "name": "page.pageInfo.pagePath",
+        "values": "memoriam-mary-l-good-legacy-scientific-pursuit-and-accomplishment"
+    },
+    {
+        "refs": [
+            "page",
+            "pageInfo",
+            "author"
+        ],
+        "name": "page.pageInfo.author",
+        "values": "Anne Q. Hoy"
+    },
+    {
+        "refs": [
+            "page",
+            "attributes",
+            "entityID"
+        ],
+        "name": "page.attributes.entityID",
+        "values": "75938"
+    },
+    {
+        "refs": [
+            "page",
+            "attributes",
+            "aaasProgram"
+        ],
+        "name": "page.attributes.aaasProgram",
+        "values": "OPP"
+    },
+    {
+        "refs": [
+            "page",
+            "attributes",
+            "subject"
+        ],
+        "name": "page.attributes.subject",
+        "values": {
+            "scientificDiscipline": {
+                "0": "Scientific community/Science policy",
+                "1": "Physical sciences/Chemistry"
             }
         }
     }
-}
+]
