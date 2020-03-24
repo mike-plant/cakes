@@ -78,11 +78,6 @@
             "subject"
         ],
         "name": "page.attributes.subject",
-        "values": {
-            "scientificDiscipline": {
-                "0": "Scientific community/Science policy",
-                "1": "Physical sciences/Chemistry"
-            }
-        }
+        "values": "stuff"
     }
 ]
