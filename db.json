@@ -1,0 +1,22 @@
+{
+    "page": {
+        "pageInfo": {
+            "pageTitle": "In Memoriam: Mary L. Good, a Legacy of Scientific Pursuit and Accomplishment",
+            "pageType": "news page", //see pageType definitions
+            "pageURL": "https://datalayer-aaasdotorg.pantheonsite.io/news/memoriam-mary-l-good-legacy-scientific-pursuit-and-accomplishment",
+            "pubDate": "2019-11-22",
+            "pagePath": "memoriam-mary-l-good-legacy-scientific-pursuit-and-accomplishment", //last segment of the URL
+            "author": "Anne Q. Hoy", //if more than one author comma separate names FN LN comma
+        },
+        "attributes": {
+            "entityID": "75938", //based on node ID
+            "aaasProgram": "OPP",
+            "subject": {
+                "scientificDiscipline": {
+                    "0": "Scientific community/Science policy",
+                    "1": "Physical sciences/Chemistry"
+                }
+            }
+        }
+    }
+}
